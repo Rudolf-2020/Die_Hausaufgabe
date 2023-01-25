@@ -31,4 +31,7 @@ public class Counter {
     public  int counterMinusNumber(int num) {
         return  counter -= num;
     }
+
+    // вношу некоторые изменения в код, чисто для проверки
+    // запушится ли? должен :)
 }
